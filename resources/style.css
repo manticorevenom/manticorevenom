@@ -1,0 +1,14 @@
+/* 
+manticorevenom
+2023.03.08
+style.css
+*/
+
+html{
+  width: 100%;
+  height: 100%
+}
+.dev {
+ font-size: 1em;
+ color: crimson;
+}
